@@ -49,6 +49,7 @@
 		AD3956EC28E9E84E00124469 /* ContractPrint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContractPrint.swift; sourceTree = "<group>"; };
 		AD3956EE28E9EE0C00124469 /* PrintingManagment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrintingManagment.swift; sourceTree = "<group>"; };
 		AD3956F028EA29A200124469 /* Utility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utility.swift; sourceTree = "<group>"; };
+		AD39571F28EB254500124469 /* management.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = management.swift; sourceTree = "<group>"; };
 		AD6D733428E52CF400BAD811 /* ManagmentSystem */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ManagmentSystem; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD6D733728E52CF400BAD811 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		AD6D733F28E52D4100BAD811 /* management.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = management.swift; path = ../../../../Downloads/management.swift; sourceTree = "<group>"; };
@@ -99,6 +100,14 @@
 			path = extension;
 			sourceTree = "<group>";
 		};
+		AD39571E28EB253D00124469 /* test */ = {
+			isa = PBXGroup;
+			children = (
+				AD39571F28EB254500124469 /* management.swift */,
+			);
+			path = test;
+			sourceTree = "<group>";
+		};
 		AD6D732B28E52CF400BAD811 = {
 			isa = PBXGroup;
 			children = (
@@ -118,6 +127,7 @@
 		AD6D733628E52CF400BAD811 /* ManagmentSystem */ = {
 			isa = PBXGroup;
 			children = (
+				AD39571E28EB253D00124469 /* test */,
 				AD3956E528E9CE3C00124469 /* extension */,
 				AD3956E428E9CE2300124469 /* util */,
 				AD6D734328E52D9200BAD811 /* vehicule */,
