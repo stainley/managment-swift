@@ -7,7 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8175821F15320F3E6FD87E59 /* Motorcycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81758AEC50410A8874425503 /* Motorcycle.swift */; };
+		81758E25F711F6BC3A933E8F /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 817580FDC60D1D5A520A1785 /* Car.swift */; };
+		AD3956CE28E8701600124469 /* Printing.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3956CD28E8701600124469 /* Printing.swift */; };
+		AD3956D228E887D600124469 /* EmployeePrint.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3956D128E887D600124469 /* EmployeePrint.swift */; };
+		AD3956E728E9CE8300124469 /* Permanent.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3956E628E9CE8300124469 /* Permanent.swift */; };
+		AD3956E928E9CEA200124469 /* Temporary.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3956E828E9CEA200124469 /* Temporary.swift */; };
+		AD3956EB28E9D0DE00124469 /* Contract.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3956EA28E9D0DE00124469 /* Contract.swift */; };
+		AD3956ED28E9E84E00124469 /* ContractPrint.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3956EC28E9E84E00124469 /* ContractPrint.swift */; };
+		AD3956EF28E9EE0C00124469 /* PrintingManagment.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3956EE28E9EE0C00124469 /* PrintingManagment.swift */; };
+		AD3956F128EA29A200124469 /* Utility.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3956F028EA29A200124469 /* Utility.swift */; };
 		AD6D733828E52CF400BAD811 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6D733728E52CF400BAD811 /* main.swift */; };
+		AD6D734028E52D4100BAD811 /* management.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6D733F28E52D4100BAD811 /* management.swift */; };
+		AD6D734228E52D5D00BAD811 /* Employee.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6D734128E52D5D00BAD811 /* Employee.swift */; };
+		AD6D734528E52DA300BAD811 /* Vehicle.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6D734428E52DA300BAD811 /* Vehicle.swift */; };
+		AD6D734728E52DC600BAD811 /* Manager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6D734628E52DC600BAD811 /* Manager.swift */; };
+		AD6D734928E52DD800BAD811 /* Tester.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6D734828E52DD800BAD811 /* Tester.swift */; };
+		AD6D734B28E52DE500BAD811 /* Programmer.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6D734A28E52DE500BAD811 /* Programmer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +39,24 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		817580FDC60D1D5A520A1785 /* Car.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
+		81758AEC50410A8874425503 /* Motorcycle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Motorcycle.swift; sourceTree = "<group>"; };
+		AD3956CD28E8701600124469 /* Printing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Printing.swift; sourceTree = "<group>"; };
+		AD3956D128E887D600124469 /* EmployeePrint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeePrint.swift; sourceTree = "<group>"; };
+		AD3956E628E9CE8300124469 /* Permanent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Permanent.swift; sourceTree = "<group>"; };
+		AD3956E828E9CEA200124469 /* Temporary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Temporary.swift; sourceTree = "<group>"; };
+		AD3956EA28E9D0DE00124469 /* Contract.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Contract.swift; sourceTree = "<group>"; };
+		AD3956EC28E9E84E00124469 /* ContractPrint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContractPrint.swift; sourceTree = "<group>"; };
+		AD3956EE28E9EE0C00124469 /* PrintingManagment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrintingManagment.swift; sourceTree = "<group>"; };
+		AD3956F028EA29A200124469 /* Utility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utility.swift; sourceTree = "<group>"; };
 		AD6D733428E52CF400BAD811 /* ManagmentSystem */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ManagmentSystem; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD6D733728E52CF400BAD811 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		AD6D733F28E52D4100BAD811 /* management.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = management.swift; path = ../../../../Downloads/management.swift; sourceTree = "<group>"; };
+		AD6D734128E52D5D00BAD811 /* Employee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Employee.swift; sourceTree = "<group>"; };
+		AD6D734428E52DA300BAD811 /* Vehicle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vehicle.swift; sourceTree = "<group>"; };
+		AD6D734628E52DC600BAD811 /* Manager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Manager.swift; sourceTree = "<group>"; };
+		AD6D734828E52DD800BAD811 /* Tester.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tester.swift; sourceTree = "<group>"; };
+		AD6D734A28E52DE500BAD811 /* Programmer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Programmer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +70,35 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		AD3956E328E9CE0C00124469 /* status */ = {
+			isa = PBXGroup;
+			children = (
+				AD3956E628E9CE8300124469 /* Permanent.swift */,
+				AD3956E828E9CEA200124469 /* Temporary.swift */,
+				AD3956EA28E9D0DE00124469 /* Contract.swift */,
+			);
+			path = status;
+			sourceTree = "<group>";
+		};
+		AD3956E428E9CE2300124469 /* util */ = {
+			isa = PBXGroup;
+			children = (
+				AD3956CD28E8701600124469 /* Printing.swift */,
+				AD3956F028EA29A200124469 /* Utility.swift */,
+			);
+			path = util;
+			sourceTree = "<group>";
+		};
+		AD3956E528E9CE3C00124469 /* extension */ = {
+			isa = PBXGroup;
+			children = (
+				AD3956D128E887D600124469 /* EmployeePrint.swift */,
+				AD3956EC28E9E84E00124469 /* ContractPrint.swift */,
+				AD3956EE28E9EE0C00124469 /* PrintingManagment.swift */,
+			);
+			path = extension;
+			sourceTree = "<group>";
+		};
 		AD6D732B28E52CF400BAD811 = {
 			isa = PBXGroup;
 			children = (
@@ -57,9 +118,36 @@
 		AD6D733628E52CF400BAD811 /* ManagmentSystem */ = {
 			isa = PBXGroup;
 			children = (
+				AD3956E528E9CE3C00124469 /* extension */,
+				AD3956E428E9CE2300124469 /* util */,
+				AD6D734328E52D9200BAD811 /* vehicule */,
+				AD6D733E28E52D2000BAD811 /* employee */,
 				AD6D733728E52CF400BAD811 /* main.swift */,
+				AD6D733F28E52D4100BAD811 /* management.swift */,
 			);
 			path = ManagmentSystem;
+			sourceTree = "<group>";
+		};
+		AD6D733E28E52D2000BAD811 /* employee */ = {
+			isa = PBXGroup;
+			children = (
+				AD3956E328E9CE0C00124469 /* status */,
+				AD6D734128E52D5D00BAD811 /* Employee.swift */,
+				AD6D734628E52DC600BAD811 /* Manager.swift */,
+				AD6D734828E52DD800BAD811 /* Tester.swift */,
+				AD6D734A28E52DE500BAD811 /* Programmer.swift */,
+			);
+			path = employee;
+			sourceTree = "<group>";
+		};
+		AD6D734328E52D9200BAD811 /* vehicule */ = {
+			isa = PBXGroup;
+			children = (
+				AD6D734428E52DA300BAD811 /* Vehicle.swift */,
+				81758AEC50410A8874425503 /* Motorcycle.swift */,
+				817580FDC60D1D5A520A1785 /* Car.swift */,
+			);
+			path = vehicule;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -120,7 +208,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD3956E928E9CEA200124469 /* Temporary.swift in Sources */,
+				AD3956EF28E9EE0C00124469 /* PrintingManagment.swift in Sources */,
+				AD6D734928E52DD800BAD811 /* Tester.swift in Sources */,
+				AD3956ED28E9E84E00124469 /* ContractPrint.swift in Sources */,
+				AD6D734528E52DA300BAD811 /* Vehicle.swift in Sources */,
+				AD6D734028E52D4100BAD811 /* management.swift in Sources */,
+				AD6D734228E52D5D00BAD811 /* Employee.swift in Sources */,
+				AD3956EB28E9D0DE00124469 /* Contract.swift in Sources */,
+				AD3956CE28E8701600124469 /* Printing.swift in Sources */,
+				AD6D734B28E52DE500BAD811 /* Programmer.swift in Sources */,
 				AD6D733828E52CF400BAD811 /* main.swift in Sources */,
+				AD6D734728E52DC600BAD811 /* Manager.swift in Sources */,
+				AD3956E728E9CE8300124469 /* Permanent.swift in Sources */,
+				8175821F15320F3E6FD87E59 /* Motorcycle.swift in Sources */,
+				81758E25F711F6BC3A933E8F /* Car.swift in Sources */,
+				AD3956D228E887D600124469 /* EmployeePrint.swift in Sources */,
+				AD3956F128EA29A200124469 /* Utility.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -160,6 +264,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -220,6 +325,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -243,7 +349,9 @@
 		AD6D733C28E52CF400BAD811 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -252,7 +360,9 @@
 		AD6D733D28E52CF400BAD811 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
